@@ -9,3 +9,5 @@ Install with ```npm i -g create-pop-app```.<br>
 ## Supported Arguments
 - ```make``` is used to create a generic pop! component with a render lifecycle method.
 - ```-f``` generates a pop! component with the set lifecycle method, props and state added.
+## Guide
+Get familiar with the pop! JS framework by checking out the guide available at https://abiramrnair.github.io/pop-js/.
