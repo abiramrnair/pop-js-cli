@@ -1,7 +1,7 @@
 # pop! JS CLI
 
 ### Lets you create custom pop! components easily.
-Install with ```npm i -g create-pop-app```.<br>
+Install with ```npm i -g pop-js-cli```.<br>
 ## Command Format
 ```sonpop make directory_name/componentName -f```
 - An optional HTML tag can also be supplied to the second argument, e.g "make-div", "make-button", "make-span" etc.
