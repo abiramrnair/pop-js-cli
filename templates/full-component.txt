@@ -9,7 +9,7 @@ export const componentName = {
 		// const { propOne, propTwo } = props;
 
 		return POP.create("div|id=componentName|class=componentName-container", [
-			`This is the ${componentName} component`,
+			`This is the componentName component`,
 		]);
 	},
 };

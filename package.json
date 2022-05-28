@@ -1,5 +1,5 @@
 {
-	"name": "pop-js-cli",
+	"name": "popjs-cli",
 	"version": "1.0.1",
 	"description": "Terminal commands for easily making pop! JS components",
 	"main": "index.js",

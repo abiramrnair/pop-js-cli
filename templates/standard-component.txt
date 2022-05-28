@@ -3,7 +3,7 @@ import POP from "sonpop-js";
 export const componentName = {
 	render: () => {
 		return POP.create("div|id=componentName|class=componentName-container", [
-			`This is the ${componentName} component`,
+			`This is the componentName component`,
 		]);
 	},
 };
