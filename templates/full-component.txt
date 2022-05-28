@@ -8,7 +8,7 @@ export const componentName = {
 		// const { state, props } = component;
 		// const { propOne, propTwo } = props;
 
-		return POP.create("button|id=componentName|class=componentName-container", [
+		return POP.create("div|id=componentName|class=componentName-container", [
 			`This is the ${componentName} component`,
 		]);
 	},
