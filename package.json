@@ -1,0 +1,31 @@
+{
+	"name": "pop-js-cli",
+	"version": "1.0.0",
+	"description": "Terminal commands for easily making pop! JS components",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"bin": {
+		"sonpop": "./index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/abiramrnair/pop-js-cli.git"
+	},
+	"keywords": [
+		"CLI",
+		"popJS",
+		"frontend",
+		"framework"
+	],
+	"author": "Abiram Nair",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/abiramrnair/pop-js-cli/issues"
+	},
+	"homepage": "https://github.com/abiramrnair/pop-js-cli#readme",
+	"dependencies": {
+		"fs-extra": "^10.1.0"
+	}
+}

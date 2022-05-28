@@ -1,0 +1,17 @@
+import POP from "sonpop-js";
+
+export const componentName = {
+	set: (state) => {
+		// state.varOne = null;
+	},
+	render: (component) => {
+		// const { state, props } = component;
+		// const { propOne, propTwo } = props;
+
+		return POP.create("button|id=componentName|class=componentName-container", [
+			`This is the ${componentName} component`,
+		]);
+	},
+};
+
+export default componentName;
